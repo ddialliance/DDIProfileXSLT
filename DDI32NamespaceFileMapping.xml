@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Namespace>
+	<Key name="ddi:archive:3_2" value="archive_xsd"/>
+	<Key name="ddi:comparative:3_2" value="comparative_xsd"/>
+	<Key name="ddi:conceptualcomponent:3_2" value="conceptualcomponent_xsd"/>
+	<Key name="ddi:datacollection:3_2" value="datacollection_xsd"/>
+	<Key name="ddi:dataset:3_2" value="dataset_xsd"/>
+	<Key name="http://purl.org/dc/terms/" value="dcterms_xsd"/>
+	<Key name="ddi:ddiprofile:3_2" value="ddiprofile_xsd"/>
+	<Key name="ddi:group:3_2" value="group_xsd"/>
+	<Key name="ddi:instance:3_2" value="instance_xsd"/>
+	<Key name="ddi:logicalproduct:3_2" value="logicalproduct_xsd"/>
+	<Key name="ddi:physicaldataproduct:3_2" value="physicaldataproduct_xsd"/>
+	<Key name="ddi:physicaldataproduct_ncube_inline:3_2" value="physicaldataproduct_ncube_inline_xsd"/>
+	<Key name="ddi:physicaldataproduct_ncube_normal:3_2" value="physicaldataproduct_ncube_normal_xsd"/>
+	<Key name="ddi:physicaldataproduct_ncube_tabular:3_2" value="physicaldataproduct_ncube_tabular_xsd"/>
+	<Key name="ddi:physicaldataproduct_proprietary:3_2" value="physicaldataproduct_proprietary_xsd"/>
+	<Key name="ddi:physicalinstance:3_2" value="physicalinstance_xsd"/>
+	<Key name="ddi:reusable:3_2" value="reusable_xsd"/>
+	<Key name="ddi:studyunit:3_2" value="studyunit_xsd"/>
+</Namespace>
