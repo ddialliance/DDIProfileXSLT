@@ -9,11 +9,21 @@ DDI31Profile2html.xslt and DDI32Profile2html.xslt render a DDI Profile in HTML.
 
 ## Generate DDI XML Profile 
 
-  xsltproc -o outputfile.xml DDI3xGenerateProfile.xslt input.xml
+    xsltproc -o outputfile.xml DDI3xGenerateProfile.xslt input.xml
+
+The outputfile.xml (The DDI Profile) contains the following fields which can be edited to annotate the Profile for a user. 
+- ProfileName
+- Label
+- Description
+- Purpose
+
+In addition, the Profile can be refined by amending the attributes to indicate whether the element is mandatory or not
+- fixedValue
+- isRequired
 
 ## Generate DDI HTML Profile from DDI XML Profile
 
-  xsltproc -o outputfile.html DDI3xProfile2HTML outputfile.xml
+    xsltproc -o outputfile.html DDI3xProfile2HTML outputfile.xml
 
 # Provenance
 
